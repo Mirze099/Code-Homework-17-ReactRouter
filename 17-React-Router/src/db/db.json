@@ -1,0 +1,76 @@
+{
+    "suppliers": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "description": "A novel set in the 1920s about Jay Gatsby's love for Daisy Buchanan.",
+        "price": 10.99,
+        "author": "F. Scott Fitzgerald",
+        "pagesCount": 180,
+        "publishedYear": 1925,
+        "genre": "Fiction",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "description": "A dystopian novel about a totalitarian regime led by Big Brother.",
+        "price": 9.99,
+        "author": "George Orwell",
+        "pagesCount": 328,
+        "publishedYear": 1949,
+        "genre": "Dystopian",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      },
+      {
+        "id": 3,
+        "title": "The Catcher in the Rye",
+        "description": "A story about teenage angst and rebellion through the eyes of Holden Caulfield.",
+        "price": 8.99,
+        "author": "J.D. Salinger",
+        "pagesCount": 277,
+        "publishedYear": 1951,
+        "genre": "Fiction",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      },
+      {
+        "id": 4,
+        "title": "To Kill a Mockingbird",
+        "description": "A classic tale of justice and race in the Deep South.",
+        "price": 12.99,
+        "author": "Harper Lee",
+        "pagesCount": 281,
+        "publishedYear": 1960,
+        "genre": "Fiction",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      },
+      {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "description": "A romantic novel that critiques the British class system.",
+        "price": 7.99,
+        "author": "Jane Austen",
+        "pagesCount": 279,
+        "publishedYear": 1813,
+        "genre": "Romance",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      },
+      {
+        "id": 6,
+        "title": "Pride and Prejudice",
+        "description": "A romantic novel that critiques the British class system.",
+        "price": 7.99,
+        "author": "Jane Austen",
+        "pagesCount": 279,
+        "publishedYear": 1813,
+        "genre": "Romance",
+        "language": "English",
+        "img": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1735286961~exp=1735290561~hmac=c9dffd6cbc0530361fa0789f2857823200e167a82bdd42a759eadadf7cb2459e&w=1060"
+      }
+    ]
+  }
